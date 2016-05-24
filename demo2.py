@@ -1,0 +1,10 @@
+o = object()
+
+print()
+print(o)
+print("           *            ")
+print("          ***            ")
+print("         *****            ")
+print("        *******            ")
+print("       *********            ")
+print()
